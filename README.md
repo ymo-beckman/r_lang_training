@@ -11,3 +11,9 @@ https://www.bioconductor.org/packages/devel/BiocViews.html#___FlowCytometry
 
 ## OO
 https://www.geeksforgeeks.org/r-object-oriented-programming/
+
+## dplyr
+https://www.geeksforgeeks.org/dplyr-package-in-r-programming/
+
+## reshaping
+https://www.geeksforgeeks.org/data-reshaping-in-r-programming/
